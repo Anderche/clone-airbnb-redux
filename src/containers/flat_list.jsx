@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+import Flat from '../components/flat';
+
 class FlatList extends Component {
 	
 	// TEMP CODE TO INTEGRATE HTML
